@@ -152,3 +152,14 @@ text-align : center;
 footer{
     background: #204a61;
 }
+
+#background-api{
+    background-image:linear-gradient(#204a61,#5ea9d1);
+
+
+}
+
+img.resize {
+    width: 70%!important; /* you can use % */
+    height: 70%!important;
+}
