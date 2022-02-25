@@ -1,16 +1,11 @@
-# practica-3
-practica CSS, continuacion de HTML.
+# practica-4
+practica Javascript (Consume API)
 
-En esta práctica hay 4 documentos:
+He implementado una funcionalidad extra en la pagina web sobre el "equipo" de la empresa, la cual procesa una API de usuarios aleatorios y crea una lista de "empleados" de la empresa de los cuales sale su nombre, información de contacto y, por último, la sede en la que trabajan.
 
-1. index.html - El landing page.
-2. info.html - información sobre la empresa
-3. contacto.html - página de contacto.
-4. style.css - estilos creados de css.
+Esta funcionalidad se encuentra en la página "Nuestro Equipo".
 
-He probado con diferentes estilos en cada página pero, aun asi, he intentado mantener el mismo estílo y color a través de la página.
-
-Las páginas se conectan a través de los links en el la barra de navegación.
+Las fotos son de baja calidad por que la Api devuelve fotos de 128px x 128px como el tamaño de foto mas grande, por lo tanto, he tenido que agrandarlas y han perdido calidad.
 
 
 **** 
